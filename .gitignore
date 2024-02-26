@@ -3,3 +3,4 @@ delta_chi2_new/
 delta_chi2_data/
 delta_chi2/
 delta_chi2_T64/
+*.npy
